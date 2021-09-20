@@ -6,6 +6,7 @@ public class BookClass {
 		show();
 	}
 	public static void show() {
+		int[] arr= {20,30,40};
 		System.out.println("Show here!");
 	}
 }
